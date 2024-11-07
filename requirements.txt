@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+loguru
+starlette
+pyjwt
+pycryptodome
+sentence_transformers
+thefuzz
+torch
+tf-keras
